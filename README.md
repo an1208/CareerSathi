@@ -18,4 +18,5 @@
 
 ## Goal
 Empower Indian job seekers with tools to succeed in their careers.
+This is the initial structure after backend and frontend integration.
 ![CareerSathi App Screenshot](image.png)

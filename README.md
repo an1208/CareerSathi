@@ -18,3 +18,4 @@
 
 ## Goal
 Empower Indian job seekers with tools to succeed in their careers.
+![CareerSathi App Screenshot](image.png)
